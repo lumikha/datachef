@@ -11,10 +11,10 @@
 	
     <link rel="stylesheet" type="text/css" href="assets/css/mobile_landscape.css"> <!--480-768-->
     <link rel="stylesheet" type="text/css" href="assets/css/small_tablet_portrait.css"> <!--600-800 additional breakpoint-->
-  	<!--<link rel="stylesheet" type="text/css" href="assets/css/tablet_portrait.css"> <!--768-1024-->
-   	<!--<link rel="stylesheet" type="text/css" href="assets/css/tablet_landscape.css"> <!--1024-1200-->
-   	<!--<link rel="stylesheet" type="text/css" href="assets/css/desktop.css"> <!--min 1200-->
-   	<!--<link rel="stylesheet" type="text/css" href="assets/css/large_desktop.css"> <!--min 1200-->
+  	<link rel="stylesheet" type="text/css" href="assets/css/tablet_portrait.css"> <!--768-1024-->
+   	<link rel="stylesheet" type="text/css" href="assets/css/tablet_landscape.css"> <!--1024-1200-->
+   	<link rel="stylesheet" type="text/css" href="assets/css/desktop.css"> <!--min 1200-->
+   	<link rel="stylesheet" type="text/css" href="assets/css/large_desktop.css"> <!--min 1200-->
 
    	<!--google fonts-->
    	<link href='//fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'> <!--h1-->
