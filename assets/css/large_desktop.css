@@ -1,5 +1,9 @@
 @media only all and (min-width: 1600px)  {
 
+	.main {
+		margin-top: 15em;
+	}
+
 	.h1 {
 		font-size: 72px;
 

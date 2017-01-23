@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> DataChef</title>
+	<title> DatasChef</title>
 	<link rel="Shortcut icon" href="assets/img/fav_32.png"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/"> 
@@ -27,8 +27,8 @@
 <div class="main">
 	<div class="h1"><strong>DATASCHEF</strong></div>
 	<div class="h2">
-		<p>Tasty data processing services for contact centers and digital marketers</p>
-		<p>First Seating: Q2 2017</p>
+		Tasty data processing services for contact centers and digital marketers
+		<br>First Seating: Q2 2017
 	</div>
 
 	<div class="favicon">
