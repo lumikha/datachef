@@ -16,15 +16,18 @@
    	<!--<link rel="stylesheet" type="text/css" href="assets/css/desktop.css"> <!--min 1200-->
    	<!--<link rel="stylesheet" type="text/css" href="assets/css/large_desktop.css"> <!--min 1200-->
 
-   	<!--php scripts-->
+   	<!--google fonts-->
+   	<link href='//fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'> <!--h1-->
+   	<link href='//fonts.googleapis.com/css?family=Source Sans Pro' rel='stylesheet'> <!--h2 and h3-->
+
 
 </head>
 <body>
 
 <div class="main">
-	<div class="h1">DATACHEF</div>
+	<div class="h1"><strong>DATACHEF</strong></div>
 	<div class="h2">
-		<p>Tasty Data Processing services for contact centers and digital marketers</p>
+		<p>Tasty data processing services for contact centers and digital marketers</p>
 		<p>First Seating: Q2 2017</p>
 	</div>
 
