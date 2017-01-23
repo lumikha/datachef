@@ -4,26 +4,37 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+   
 
 } 
 
+
 .main {
 	text-align: center;
+
 }
 
 .h1 {
-	font-family: Montserrat;
-	font-size: 72px;
 	color: #000000;
+	font-family: Montserrat;
+	font-size: 40px ; /**72 / 16**/
 	letter-spacing: 0;
+	margin-top: 1.5em;
 	
 }
 
 .h2 {
 	font-family: Source Sans Pro;
-	font-size: 36px;
+	font-size: 16px;
 	color: #FFFFFF;
 	letter-spacing: 0.35px;
+}
+
+.favicon img {
+	width: 35%;
+	height: auto;
+	margin-top: 1em;
+	
 }
 
 .favicon p{
@@ -32,9 +43,9 @@ html {
 }
 
 .footer {	
-	background-color: #000000;
+	 background-color: #000000;
 	font-family: Source Sans Pro;
-	font-size: 16px;
+	font-size: 12px;
 	color: #FFFFFF;
 	letter-spacing: 0;
 	line-height: 24px;
@@ -43,11 +54,16 @@ html {
     bottom: 0;
     left: 0;
     right: 0;
-    margin: 0 auto;
-    width: 100%;
+   
+    
+
+
+
 }
 
 .footer a {
 	text-decoration: none;
 	color: #FFFFFF;
+
+
 }
