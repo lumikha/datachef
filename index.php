@@ -8,7 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css"><!--main stylesheet-->
 
 	 <!--media queries-->
-	
+	<link rel="stylesheet" type="text/css" href="assets/css/small_mobile.css"> <!--max 320-->
     <link rel="stylesheet" type="text/css" href="assets/css/mobile_landscape.css"> <!--480-768-->
     <link rel="stylesheet" type="text/css" href="assets/css/small_tablet_portrait.css"> <!--600-800 additional breakpoint-->
   	<link rel="stylesheet" type="text/css" href="assets/css/tablet_portrait.css"> <!--768-1024-->
@@ -23,7 +23,7 @@
 
 </head>
 <body>
-
+<div class="container">
 <div class="main">
 	<div class="h1"><strong>DATASCHEF</strong></div>
 	<div class="h2">
@@ -42,7 +42,7 @@
 	<p>Copyright &copy 2017 <a href="http://lumikha.co">Atelier Lumikha.</a> All rights Reserved.</p>
 </div>
 
-
+</div>
 </body>
 
 

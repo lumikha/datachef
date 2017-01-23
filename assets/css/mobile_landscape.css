@@ -1,18 +1,18 @@
 @media only all and (min-width: 480px) and (max-width: 768px)   
 {	
 	.main {
-		margin-top: 2em;
+		margin-top: 0em;
 	}
 
 	.h1 {
-		font-size: 50px;
+		font-size: 44px;
 		margin-top: 0em;
 		
 	}
 
 	.h2 {
 
-		font-size: 18px;
+		font-size: 14px;
 	
 	}
 
@@ -22,7 +22,7 @@
 	}
 
 	.footer {
-		font-size: 14px;
+		font-size: 12px;
 		line-height: 0;
 
 	}
