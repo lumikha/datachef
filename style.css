@@ -18,15 +18,15 @@ html {
 
 .h1 {
 	color: #000000;
-	font-family: Montserrat;
+	font-family: Montserrat-Bold;
 	font-size: 40px ; /**72 / 16**/
 	letter-spacing: 0;
 	margin-top: 1.5em;
 	
-}
+} /**DATASCHEF**/
 
 .h2 {
-	font-family: Source Sans Pro;
+	font-family: SourceSansPro-Regular;
 	font-size: 16px;
 	color: #FFFFFF;
 	letter-spacing: 0.35px;
@@ -46,7 +46,7 @@ html {
 
 .footer {	
 	 background-color: #000000;
-	font-family: Source Sans Pro;
+	font-family: SourceSansPro-Semibold;
 	font-size: 12px;
 	color: #FFFFFF;
 	letter-spacing: 0;

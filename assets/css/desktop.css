@@ -3,11 +3,11 @@
 	.h1 {
 		font-size: 72px;
 
-	}
+	} //**desktop**/
 
 	.h2 {
 		font-size: 36px;
-	}
+	} /**tasty data processing**/
 
 	.favicon img {
 		margin-top: 3em;
@@ -17,7 +17,7 @@
 
 	.footer {
 		font-size: 16px;
-		line-height: 0;
+		line-height: 24px;
 	}
 
 

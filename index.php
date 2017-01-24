@@ -8,6 +8,13 @@
 	<meta name="description" content="Tasty data processing services for contact centers and digital marketers.">
 
 	<link rel="Shortcut icon" href="assets/img/fav_32.png"/>
+
+		<!--google fonts-->
+	
+	<link rel="stylesheet" type="text/css" href="assets/fonts/Source_Sans_Pro/style.css">
+	<link rel="stylesheet" type="text/css" href="assets/fonts/Montserrat/style.css">
+	<link rel="stylesheet" type="text/css" href="assets/fonts/Merriweather/style.css">
+
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/"> 
 	<link rel="stylesheet" type="text/css" href="style.css"><!--main stylesheet-->
 
@@ -19,10 +26,6 @@
    	<link rel="stylesheet" type="text/css" href="assets/css/tablet_landscape.css"> <!--1024-1200-->
    	<link rel="stylesheet" type="text/css" href="assets/css/desktop.css"> <!--min 1200-->
    	<link rel="stylesheet" type="text/css" href="assets/css/large_desktop.css"> <!--min 1200-->
-
-   	<!--google fonts-->
-   	<link href='//fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'> <!--h1-->
-   	<link href='//fonts.googleapis.com/css?family=Source Sans Pro' rel='stylesheet'> <!--h2 and h3-->
 
 
 </head>
