@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> DatasChef</title>
-	<link rel="Shortcut icon" href="assets/img/fav_32.png"/>
+	<title> DataSchef Data Processing for SMB Marketers</title>
+	
+	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Tasty data processing services for contact centers and digital marketers.">
+
+	<link rel="Shortcut icon" href="assets/img/fav_32.png"/>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/"> 
 	<link rel="stylesheet" type="text/css" href="style.css"><!--main stylesheet-->
 
@@ -39,7 +43,7 @@
 </div>
 
 <div class="footer">
-	<p>Copyright &copy 2017 <a href="http://lumikha.co">Atelier Lumikha.</a> All rights Reserved.</p>
+	<p>Copyright &copy 2017 <a href="http://lumikha.co" target="_blank">Atelier Lumikha.</a> All Rights Reserved.</p>
 </div>
 
 </div>
